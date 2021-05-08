@@ -23,3 +23,7 @@ npm run start
 
 #Tendrás acceso al proyecto en http://localhost:8080/
 ```
+
+#### Abre la consola de desarrollo
+
+En la consola de desarrollo tendrás un conteo de las imágenes solicitadas y las que ya han cargado 😁
