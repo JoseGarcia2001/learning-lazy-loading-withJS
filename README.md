@@ -6,7 +6,7 @@
 
 ```sh
 # Clona el repositorio con
-git clone git@github.com:JoseGarcia2001/learning-lazy-loading.git
+git clone https://github.com/JoseGarcia2001/learning-lazy-loading-withJS.git
 
 # Accede a la carpeta
 cd learning-lazy-loading
