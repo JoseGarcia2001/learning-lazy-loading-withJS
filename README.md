@@ -27,3 +27,5 @@ npm run start
 #### Abre la consola de desarrollo
 
 En la consola de desarrollo tendrás un conteo de las imágenes solicitadas y las que ya han cargado 😁
+
+[Mira la web desplegada ✨🎉](https://josegarcia2001.github.io/learning-lazy-loading-withJS/ "Mira la web desplegada ✨🎉")
