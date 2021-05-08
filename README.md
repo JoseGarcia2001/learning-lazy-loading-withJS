@@ -2,8 +2,6 @@
 
 > ✨ Implementación de los conocimientos aprendidos en el curso de Manipulación del DOM en Platzi.
 
-Ready-to-go template to create awesome websites using Tailwind on top of Snowpack and autopublish to GitHub pages using GitHub Actions.
-
 ## Quick start
 
 ```sh
