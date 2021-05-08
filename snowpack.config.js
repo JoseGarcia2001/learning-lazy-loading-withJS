@@ -5,6 +5,6 @@ module.exports = {
     src: "/_dist_",
   },
   buildOptions: {
-    baseUrl: "https://josegarcia2001.github.io/learning-lazy-loading",
+    baseUrl: "https://josegarcia2001.github.io/learning-lazy-loading/",
   },
 };
